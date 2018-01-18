@@ -1,1 +1,6 @@
-{"pages": ["README.md", "pages/home.md", "pages/menu.md"]}
+{
+  "pages": ["README.md", "pages/home.md", "pages/menu.md"]
+  "fragmentedPages": {
+    "templates/tours.html": "fragments/tours.html"
+  }
+}
