@@ -1,6 +1,8 @@
 {
   "pages": ["README.md", "pages/home.md", "pages/menu.md"]
-  "fragmentedPages": {
-    "templates/tours.html": "fragments/tours.html"
+  "fragmentedPages": [
+  {
+    "template": "templates/tours.html",
+    "fragment": "fragments/tours.html"
   }
 }
