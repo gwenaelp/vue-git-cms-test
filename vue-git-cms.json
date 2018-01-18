@@ -4,5 +4,5 @@
   {
     "template": "templates/tours.html",
     "fragment": "fragments/tours.html"
-  }
+  }]
 }
