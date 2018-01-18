@@ -1,5 +1,5 @@
 {
-  "pages": ["README.md", "pages/home.md", "pages/menu.md"]
+  "pages": ["README.md", "pages/home.md", "pages/menu.md"],
   "fragmentedPages": [
   {
     "template": "templates/tours.html",
