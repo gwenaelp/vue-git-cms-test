@@ -3,6 +3,7 @@
   "fragmentedPages": [
   {
     "template": "templates/tours.html",
-    "fragment": "fragments/tours.html"
+    "fragment": "fragments/tours.html",
+    "destination": "tours.html"
   }]
 }
